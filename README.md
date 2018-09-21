@@ -1,7 +1,7 @@
 
 
 ## 简介
-基于<a href="https://alibaba.github.io/ice">阿里飞冰</a>快速搭建的一个基于react的后台管理系统
+基于<a href="https://alibaba.github.io/ice">阿里飞冰</a>快速搭建的一个基于react的后台管理系统，搭配service项目
 
 ## 技术点
 
